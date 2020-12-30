@@ -1,0 +1,8 @@
+Section "Screen"
+    Identifier "Screen0"
+    Monitor "HDMI-1"
+    DefaultDepth 24
+    SubSection "Display"
+        Modes "720x480"
+    EndSubSection
+EndSection
